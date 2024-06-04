@@ -1,0 +1,14 @@
+# Ignore the virtual environment directory
+venv/
+# Ignore the .env file containing sensitive information
+.env
+# Ignore compiled files
+*.pyc
+__pycache__/
+# Ignore database files
+db.sqlite3
+# Ignore static files
+staticfiles/
+# Ignore IDE/editor files
+.vscode/
+.idea/
